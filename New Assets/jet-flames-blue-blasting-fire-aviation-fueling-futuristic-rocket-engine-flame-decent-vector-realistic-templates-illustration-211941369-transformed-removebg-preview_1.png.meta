@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 363d13d564343364db6b547099e8b20e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 342
+        width: 67
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c16e4e090f23241804f47578309883
+      internalID: 2131420515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 299
+        width: 64
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70e85223872af941bae6a20026aa7ef
+      internalID: 174584956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 330
+        width: 89
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa07d99f0c87584ab419cd36bded90a
+      internalID: 531658071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 310
+        width: 64
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f801fd80f41e9240b9c33b62521d816
+      internalID: -1958092554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 48
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c666ab718f235845bd60c11fb2f0ddf
+      internalID: -918674674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 58
+        width: 77
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b51a5259ef4ca42ae842787597fb82
+      internalID: -2053220833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 26
+        width: 40
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d545278e4c4c96144a47da87946c029f
+      internalID: -670891504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 14
+        width: 39
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6591ebafe19149e4bb4b0d07f4f3492e
+      internalID: 486106224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 47
+        width: 45
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e18ab58936a614c8aede5d2637b767
+      internalID: -53326071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_0: 2131420515
+      jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_1: 174584956
+      jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_2: 531658071
+      jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_3: -1958092554
+      jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_4: -918674674
+      jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_5: -2053220833
+      jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_6: -670891504
+      jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_7: 486106224
+      jet-flames-blue-blasting-fire-aviation-fueling-futuristic-rocket-engine-flame-decent-vector-realistic-templates-illustration-211941369-transformed-removebg-preview_1_8: -53326071
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

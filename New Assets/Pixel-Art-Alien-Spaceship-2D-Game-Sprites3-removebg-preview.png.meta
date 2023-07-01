@@ -1,0 +1,3239 @@
+fileFormatVersion: 2
+guid: 794aa0ab44b263f44b46308afdb8d06a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 338
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3160804a10e247429a1ffb7c63deb3d
+      internalID: 1950426747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 338
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce00413bc58a8c40b54bdf5d2859d1f
+      internalID: 1011466927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 337
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd50dfb75239584d9974d1276fab887
+      internalID: -1490320489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 339
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319b62dab7e484e4386bd44701b329bd
+      internalID: -1986686205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 341
+        width: 35
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5c2b661bc4dc34bb151f5a440e6068
+      internalID: -1953402182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 339
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c9dfb18effce74b860d88c2ef900af
+      internalID: 1210373134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 337
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7ffdbb258f8394388d1cfc4e90b42f
+      internalID: -1518440220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 338
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0cfaf4703d7e44aaef93f9a7fc60a7
+      internalID: -2070732274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 337
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1981c8054716f41bedbe4a92abdc39
+      internalID: 1610829840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 339
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473ff3e2592b3a84faa6f5ccbb988034
+      internalID: 343532241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 341
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c3eb7bcb2b2364f8bf4780d37141b8
+      internalID: -1063126529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 339
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa809f271965954ab8ca26686056f3e
+      internalID: 1588413515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 313
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba0d01e97390b54eb420259c13299ae
+      internalID: -55175327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 313
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f74b2c32abd3a4d9837cf6608b69e5
+      internalID: 104274339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 310
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699782ea6849bc54a94e9a05b862ebc8
+      internalID: 828938161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 315
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231ff2096138d404fa766a501bc8e29f
+      internalID: -1847953322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 315
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e14d96f04fe67a42a10baa1943c5d04
+      internalID: 492411737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 313
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9957fdf83bb3d4a9080f9649fa1b24
+      internalID: -1721889256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 313
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2430fa141b2992a40a87de73857ee002
+      internalID: -999720101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 313
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf2ae214a232d74daeaf872081b549f
+      internalID: -875627594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 311
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a27dcd3f9b478847871112212cb67f5
+      internalID: -1948474107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 315
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d732cb6b5e8cd4da33ae70168c68ac
+      internalID: 819570780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 315
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e877e4ccc7dcf469f1e30ece076732
+      internalID: 1922625568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 314
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cd32a162e450a4493b81d0515fef4a
+      internalID: -1394967800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 290
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0ce506481470a449b17718bffd5fc0
+      internalID: 1211406184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 287
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0683be8226ffce045bab40caeacaaa9e
+      internalID: 746444365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 285
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08636ed18e93dd5459cb12be714c81c9
+      internalID: 1721196718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 289
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20d96e27e486f545ac4aafb4c25bd41
+      internalID: 433221174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 287
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8678595f891979d4b8db610b7dc6af5f
+      internalID: 1432144648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 286
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a576bfc77c15ac64bb8cfc93b8b5eda7
+      internalID: -230094359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 290
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300f2d28388c2524086998a777053c2f
+      internalID: 755680051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 287
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6506704dd38eb47b0a1f8a053d40c9
+      internalID: 804506897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 285
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a175be6f69f93fd4292019ad518418c4
+      internalID: -663577797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 290
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41715afcf6152ca40b269ffd30b11e02
+      internalID: -200418736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 287
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2242d8fb8e69f524a813ec3f9d0c89fb
+      internalID: 913431801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 287
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbbfeeb7aa3d6e4c8679059868b82b7
+      internalID: 4425060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 261
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b5f1f46ff26b24bbb7f96c4fb9173f
+      internalID: -1744655186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 259
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f8671b9c9f7fa4a8d6779bb5c10edc
+      internalID: 511626467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 259
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c418d4848367a24287500e48c7ca772
+      internalID: 1053616200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 260
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b649d018e60a24094d7b75dcf7ff9b
+      internalID: -1942836602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 257
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c614ce3d10afc16458f0ffa737d57e6a
+      internalID: -1381729313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 262
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2cac95b0111e74e9f1418dccb43cc2
+      internalID: -224884744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 260
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a5bd083133f7541b0d1a97cdb9309f
+      internalID: 1816430426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 258
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41a3facc7760cd4b86423fe94b89be1
+      internalID: 436904657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 261
+        width: 63
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ced8ae1f169f36479121583ea6af677
+      internalID: -661582794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 259
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d568c6406e272e488847d03727fa0cb
+      internalID: -563603343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 258
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89be853cfe23be449b715e1b5802ad5b
+      internalID: 293676207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 221
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09f93e664eeb8e46bbe2136336c812a
+      internalID: -1441480451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 220
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc6a860eb3df8c46ad6ffcf0c84023d
+      internalID: -114390613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 220
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0793ab084d4b51346b52c4ff189bc1ce
+      internalID: 1969589947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 223
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5221c4e6069222842900de9c728561c9
+      internalID: -248443084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 224
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a36f364aef5b9343af946808de29c0b
+      internalID: -786642360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 223
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdb3c709f879804292c320a55cd6ec4
+      internalID: -1722903464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 221
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53db3ed95ae0a2d49acc97352b4a5292
+      internalID: -1258773637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 221
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6720d2ba12074d40abb2525327fe66f
+      internalID: 1549519432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 221
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051c5881606801449a5dd6d1d873b072
+      internalID: 1557593158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 223
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e404303626b2c234aaca7c159f500938
+      internalID: -944835921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 224
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236266713aa6fad4884de1f0ad546e3e
+      internalID: -855912157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 223
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5ad69a9f9c7f646b584f7443134b3c
+      internalID: -1304681027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 197
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068dedca026dd7c468c07a3a6cc15461
+      internalID: -105501880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 196
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5812e5b85095d14ba68c8545efd424b
+      internalID: -1035654635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 194
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70903ff93b7c554fbf11e19ff328ee3
+      internalID: 1136861634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 199
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe8a597f60a274a89fcb9d749b1da9
+      internalID: 851978424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 199
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1261d62178e404a8ce4996d5bec838
+      internalID: 1292765539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 197
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b0c7cab47988e418397089579d0215
+      internalID: 2086416212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 197
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c057fc7e7b9e06240b291c26dbe353b1
+      internalID: 549048494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 196
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdda2f922788fb4b95ba94d7dbfead8
+      internalID: -455746178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 195
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9d21ddef925324587a6d2591732252
+      internalID: 1568941383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 198
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac4de83801ea02418dbc7485bdd60f5
+      internalID: 1107124052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 199
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f85b01caa1cd5245baa37aaf733efba
+      internalID: -287044030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 197
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c97cd2defab21540a23594021483e8a
+      internalID: -729659727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 174
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffa2b1fe60d25a47bccebac50b72241
+      internalID: -415617379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 171
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b026540b9824a4a43ad10a0f6aa8ee60
+      internalID: 1425204399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 169
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18c478413d67724f842d48967df3829
+      internalID: -1640728248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 173
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844d8393c32d2974fac3db220e378bf8
+      internalID: -618779825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 171
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b3bb8c41adbcd4196456dff93d8421
+      internalID: 1857976557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 170
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b57ab9eceade545ac3900fd8f485d9
+      internalID: -687358856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 175
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b564154e94cde1b47b83dead0360fe8a
+      internalID: 319137637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 174
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc7a311ea472fa4bb130d8cc20c42a7
+      internalID: -744336958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 171
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46253210e91ad74ea09eb1e7b736a55
+      internalID: 321545139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 169
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90303c5bbc08f49428fb76980b548f07
+      internalID: -897271580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 174
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da25ad97dcb7ca48b749ba4c5922599
+      internalID: 714891512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 171
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52151e2a8e778e8459539e5ce01e63ed
+      internalID: -456679826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 171
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbf59f48a103f541b29abbe6dd47efd
+      internalID: 986330431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 143
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4c3a2a97d9ca04695fa0bb5006bc0e
+      internalID: -1666481742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 143
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8949dd47898c30040940f8c9a2954e43
+      internalID: 1794771802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 143
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d3b0f97a769964998f8ee6e315bae2
+      internalID: -114219610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 144
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11394ce3147ba3c4cb9fb2b472c2aa77
+      internalID: 1493962423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 141
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e8db611409c7b418d013e987984343
+      internalID: 1046093815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 144
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb4280a9729dee4bb006d9cca546e3d
+      internalID: 763800229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 143
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2d9c7734b8c694694c6ee76f413ef2
+      internalID: 1460338517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 143
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f727d6119ecc70647ab4d988e1203627
+      internalID: -1697631505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 144
+        width: 63
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5001d8ccf9e43c2489fe03de70f0ae85
+      internalID: 1313470913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 141
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe5c60ecbebfc498d0fe731f565dc1
+      internalID: 35026016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 106
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080c928612afe294cabfc838c0e39f76
+      internalID: 32086401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 106
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a6f127b7b57ce4badebea5807ef72a
+      internalID: -1607421451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 105
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0595a138666eb41a4171635dfc7d40
+      internalID: -1885181712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 107
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b554c8037ca1f448b65a1ba7aa57f7
+      internalID: -1557428051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 109
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75e7089d22fc534f8e94db700994991
+      internalID: 978790837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 107
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70401c9e5de40d34a9f60bd29e2afd00
+      internalID: -1346091819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 106
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e964c5e0ce32940948a5f9826d61f4
+      internalID: 1635051050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 105
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63e8adf0777bba4d83621ba2c42e609
+      internalID: 1741707129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 105
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8230ce6c789e0f4493dc9a78242e1f1
+      internalID: -672649098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 107
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79838586c2914924b9e15fd011d9db4d
+      internalID: 399160145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 109
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710377b175f33ac4abd3a4c0c5b32026
+      internalID: -519597406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 107
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17113ee7472e2f44a3ff5c10350afa1
+      internalID: -1709579990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 82
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19aea6fef996784db53fb966bdaf831
+      internalID: -1789032105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 81
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f08ac55762b224aa5f8b9a8aa33c24
+      internalID: 1515071764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 78
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bdf1601ed8fb94ea8cb12229a4699c
+      internalID: 243645898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 83
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1cc5ecdd01acf4c90f3398996c6ca7
+      internalID: 680735335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 83
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559ec9dbfab91bf4c86bada47730319b
+      internalID: -334899819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 81
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7687eb02f922843a40933579185cb1
+      internalID: -1000462350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 81
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28240a4231b80bb48a6a001e77a10737
+      internalID: -18541874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 80
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54426fb2c02e0ab4a9a2d302d2d21a49
+      internalID: -868385350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 79
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26614764a234cf643b8e5f937bdc0635
+      internalID: -488639504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 83
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168cc4c64bb03ea47a7332cee993f5d4
+      internalID: 149474084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 83
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fb0773dc0eb544fb8da9c0e45589b9
+      internalID: 2001535779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 81
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a52f4ac3ed8f784da5743de143c9b02
+      internalID: 866930031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 58
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d0dc6006678bc45982af62ab9a85aa
+      internalID: -1188566062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 55
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9d368e430651542adb4a15523b9540
+      internalID: -1943101618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 53
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c468de43f207e42b13ac77196e6691
+      internalID: 81580415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 57
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d3d994584c5a140bfb4b1ae3419194
+      internalID: 905727385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 55
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97e1fe6f6132fc49853b45b19206902
+      internalID: 127396026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 54
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb1c72b790953e4cbbcf93b1e222fbe
+      internalID: 1243258031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 58
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafb94e610636c3409be4b209f10379a
+      internalID: 886496274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 55
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921f85dc155e8f644be0e51d1513e8df
+      internalID: 180102161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 53
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9e476f3f3a1c14aa0b1805268638dd
+      internalID: -1447574858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 57
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d73196afddaf14b9aea98e46496bed
+      internalID: 931334271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 55
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86ebe6c33b1bb34faf0f136687845d2
+      internalID: -1782178900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 54
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505d03df75380784280b5d1d9116e8e5
+      internalID: -38660235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_132
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 29
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4ef19393d607647a11143d0914604e
+      internalID: 28813940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_133
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 27
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54a7c2775cfef444b7d7e10397de702
+      internalID: -1101811159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_134
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45306dd584dc99c4a850da09ad8e4de0
+      internalID: 1375076804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_135
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 29
+        width: 63
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667864be787c1e84798845dd4a32433f
+      internalID: -1937621442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_136
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 27
+        width: 41
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb25da4d4b545a4f83d8f2adacba762
+      internalID: -574210185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_137
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 29
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0f4df969e6daa41aeabe0a9974d2da
+      internalID: 2068979652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_138
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 27
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5d150ac7aab8341a654136273e80af
+      internalID: 1011738937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 26
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670dae15e3a43cc45b0299d7948ca625
+      internalID: -1817108936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_140
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 27
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fef9322b7959ac49ab385c2fe55cc7b
+      internalID: -1936108268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_141
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 29
+        width: 63
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bfc60c728b04d47aa0e5b89a9a16c8
+      internalID: -1872889097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_142
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 27
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53092dd52e8d5a4bba42ffc243c1623
+      internalID: -1839915991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_0: 2000096799
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_1: 100996751
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_10: 1610829840
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_100: 978790837
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_101: -1346091819
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_102: 1635051050
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_103: 1741707129
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_104: -672649098
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_105: 399160145
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_106: -519597406
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_107: -1709579990
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_108: -1789032105
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_109: 1515071764
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_11: 343532241
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_110: 243645898
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_111: 680735335
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_112: -334899819
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_113: -1000462350
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_114: -18541874
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_115: -868385350
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_116: -488639504
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_117: 149474084
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_118: 2001535779
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_119: 866930031
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_12: -1063126529
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_120: -1188566062
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_121: -1943101618
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_122: 81580415
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_123: 905727385
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_124: 127396026
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_125: 1243258031
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_126: 886496274
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_127: 180102161
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_128: -1447574858
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_129: 931334271
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_13: 1588413515
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_130: -1782178900
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_131: -38660235
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_132: 28813940
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_133: -1101811159
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_134: 1375076804
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_135: -1937621442
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_136: -574210185
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_137: 2068979652
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_138: 1011738937
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_139: -1817108936
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_14: -55175327
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_140: -1936108268
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_141: -1872889097
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_142: -1839915991
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_15: 104274339
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_16: 828938161
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_17: -1847953322
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_18: 492411737
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_19: -1721889256
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_2: 1950426747
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_20: -999720101
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_21: -875627594
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_22: -1948474107
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_23: 819570780
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_24: 1922625568
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_25: -1394967800
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_26: 1211406184
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_27: 746444365
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_28: 1721196718
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_29: 433221174
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_3: 1011466927
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_30: 1432144648
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_31: -230094359
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_32: 755680051
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_33: 804506897
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_34: -663577797
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_35: -200418736
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_36: 913431801
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_37: 4425060
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_38: -1744655186
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_39: 511626467
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_4: -1490320489
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_40: 1053616200
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_41: -1942836602
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_42: -1381729313
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_43: -224884744
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_44: 1816430426
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_45: 436904657
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_46: -661582794
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_47: -563603343
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_48: 293676207
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_49: -1441480451
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_5: -1986686205
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_50: -114390613
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_51: 1969589947
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_52: -248443084
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_53: -786642360
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_54: -1722903464
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_55: -1258773637
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_56: 1549519432
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_57: 1557593158
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_58: -944835921
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_59: -855912157
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_6: -1953402182
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_60: -1304681027
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_61: -105501880
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_62: -1035654635
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_63: 1136861634
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_64: 851978424
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_65: 1292765539
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_66: 2086416212
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_67: 549048494
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_68: -455746178
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_69: 1568941383
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_7: 1210373134
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_70: 1107124052
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_71: -287044030
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_72: -729659727
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_73: -415617379
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_74: 1425204399
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_75: -1640728248
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_76: -618779825
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_77: 1857976557
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_78: -687358856
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_79: 319137637
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_8: -1518440220
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_80: -744336958
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_81: 321545139
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_82: -897271580
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_83: 714891512
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_84: -456679826
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_85: 986330431
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_86: -1666481742
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_87: 1794771802
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_88: -114219610
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_89: 1493962423
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_9: -2070732274
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_90: 1046093815
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_91: 763800229
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_92: 1460338517
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_93: -1697631505
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_94: 1313470913
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_95: 35026016
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_96: 32086401
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_97: -1607421451
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_98: -1885181712
+      Pixel-Art-Alien-Spaceship-2D-Game-Sprites3-removebg-preview_99: -1557428051
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
